@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management Dashboard
 
 A small, responsive Task Management Dashboard built with React and Vite.
@@ -60,3 +61,6 @@ src/
 2. Add a task with the form and watch the summary update.
 3. Mark it as Completed and view it with the Completed filter.
 4. Switch back to All, delete a task and check that the counts update.
+=======
+# Task-management
+>>>>>>> 1f773f3bbc303ab62e65f18d0c951ece41c56c3d
